@@ -28,16 +28,17 @@ Redes sociais
 <!--
 Projetos recentes
 -->
-<div>
+<div align="center">
   <a href="https://github.com/Vitor-S/Horto-Codes">
-    <img align="right"
+    <img height="135em" align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-S&repo=Horto-Codes&theme=dracula" />
   </a>
   <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t4-filmes">
-    <img align="right"
+    <img height="135em" align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=ICEI-PUC-Minas-PMV-ADS&repo=pmv-ads-2022-2-e1-proj-web-t4-filmes&theme=dracula" />
   </a>
-  
+</div>
+    
 ![Snake animation](https://github.com/alvarosoaress/alvarosoaress/blob/output/github-contribution-grid-snake.svg)
   
 </div>
