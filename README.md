@@ -1,4 +1,5 @@
-<h1 align="center">Opa, bão? Eu sou o Álvaro !</h1>
+<h1 align="center">Howdy mate, i’m Álvaro !</h1>
+
 <!--
 perfil
 -->
@@ -28,7 +29,7 @@ perfil
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-  <h2 align="center">Projetos recentes</h2>
+  <h2 align="center">Recents projects</h2>
   
 <div align="center">
   <a href="https://github.com/Vitor-S/Horto-Codes">
