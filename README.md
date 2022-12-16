@@ -37,12 +37,7 @@ Projetos recentes
     <img align="right"
       src="https://github-readme-stats.vercel.app/api/pin/?username=ICEI-PUC-Minas-PMV-ADS&repo=pmv-ads-2022-2-e1-proj-web-t4-filmes&theme=dracula" />
   </a>
-  ![Snake animation](https://github.com/alvarosoaress/alvarosoaress/blob/output/github-contribution-grid-snake.svg)
+  
+![Snake animation](https://github.com/alvarosoaress/alvarosoaress/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
-
-
-
-<!--
-
-
--->
