@@ -7,8 +7,7 @@ perfil
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: alvaroegsoares@gmail.com
 
-<div>
-   
+<div align="right">
   <a href="https://github.com/alvarosoaress">
     <img src="https://github-readme-stats.vercel.app/api?username=alvarosoaress&show_icons=true&theme=dark" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarosoaress&layout=compact&langs_count=7&theme=dark" />
