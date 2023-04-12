@@ -32,14 +32,15 @@ perfil
   <h2 align="center">Recents projects</h2>
   
 <div align="center">
+    <a href="https://github.com/alvarosoaress/Divino-Sabor">
+    <img height="135em" align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=alvarosoaress&repo=Divino-Sabor&theme=dark" />
+  </a>
   <a href="https://github.com/Vitor-S/Horto-Codes">
     <img height="135em" align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-S&repo=Horto-Codes&theme=dark" />
   </a>
-  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t4-filmes">
-    <img height="135em" align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ICEI-PUC-Minas-PMV-ADS&repo=pmv-ads-2022-2-e1-proj-web-t4-filmes&theme=dark" />
-  </a>
+
 </div>
 
   <div align="center">
