@@ -5,8 +5,8 @@ perfil
 -->
 <div align="center">
   
-##### 🔭 I’m currently working on Web Frontend and Backend
-##### 🌱 I’m currently learning Web Development
+##### 🔭 I’m currently working on Web Full-Stack
+##### 🌱 I’m currently learning Web Full-Stack Development
 ##### 📫 How to reach me: alvaroegsoares@gmail.com
   
 </div>
