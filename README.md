@@ -38,7 +38,7 @@ perfil
   </a>
   <a href="https://github.com/Vitor-S/Horto-Codes">
     <img height="135em" align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-S&repo=Horto-Codes&theme=dark" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=alvarosoaress&repo=Comandas-Api&theme=dark" />
   </a>
 
 </div>
