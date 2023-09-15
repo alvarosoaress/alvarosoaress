@@ -36,7 +36,7 @@ perfil
     <img height="135em" align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=alvarosoaress&repo=Divino-Sabor&theme=dark" />
   </a>
-  <a href="https://github.com/Vitor-S/Horto-Codes">
+  <a href="[comandas-api](https://github.com/alvarosoaress/comandas-api)">
     <img height="135em" align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=alvarosoaress&repo=Comandas-Api&theme=dark" />
   </a>
