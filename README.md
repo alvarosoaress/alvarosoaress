@@ -41,10 +41,8 @@ perfil
       src="https://github-readme-stats.vercel.app/api/pin/?username=alvarosoaress&repo=Comandas-Api&theme=dark" />
   </a>
 
+<div align="center">
+  <img src="https://github.com/alvarosoaress/alvarosoaress/assets/13721147/38e5f654-1322-44b9-85f9-4f6a82033d22.gif">
 </div>
 
-  <div align="center">
-    
-<img src="https://github.com/alvarosoaress/alvarosoaress/blob/output/github-contribution-grid-snake.svg">
- 
-  </div>
+</div>
